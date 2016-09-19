@@ -27,6 +27,9 @@ action () {
 action compute_temp_cs.cpp
 action compute_temp_cs.h
 
+action compute_charge_displace_atom.cpp
+action compute_charge_displace_atom.h
+
 action pair_born_coul_long_cs.cpp pair_born_coul_long.cpp
 action pair_born_coul_long_cs.h pair_born_coul_long.h
 action pair_born_coul_wolf_cs.cpp pair_born_coul_wolf.cpp
@@ -42,3 +45,4 @@ action pair_coul_wolf_cs.h pair_coul_wolf.h
 
 action pair_lj_cut_coul_long_cs.cpp pair_lj_cut_coul_long.cpp
 action pair_lj_cut_coul_long_cs.h pair_lj_cut_coul_long.h
+
